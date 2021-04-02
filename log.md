@@ -2,7 +2,7 @@
 
 ### Day 0: March 27, 2021
 
-**Today's Progress**: Completed the "Basic HTML and HTML5" and "Basic CSS" courses under the "Responsive Web Design" certification on freecodcamp.org to brush up on my basics.
+**Today's Progress**: Did the "Basic HTML and HTML5" and "Basic CSS" courses under the "Responsive Web Design" certification on freecodcamp.org again to brush up on my basics.
 
 **Thoughts:** I'm excited and I want be able to start creating as soon as I'm done brushing up the basics. It'll take time to get to a certain level, but it's all going to be worth it at the end. My plant took half a month to grow a leaf. It worked so hard to reach at a point where it's growth could be visible. I'm going to work hard too! :seedling:
 
@@ -17,7 +17,7 @@
 
 ### Day 2: March 30, 2021 (updated log on April 2, 2021)
 
-**Today's Progress**: Completed the "Applied Visual Design" course under the "Responsive Web Design" certification on freecodcamp.org to brush up on my basics.
+**Today's Progress**: Completed the "Applied Visual Design" course under the "Responsive Web Design" certification on freecodcamp.org
 
 **Thoughts:** Little confused with the cubic-bezier function but it will get better as I keep using these concepts and creating.
 
@@ -33,3 +33,11 @@
 2. [heart](https://codepen.io/caffeineproof/pen/KKaaegG)
 3. [holographic heart](https://codepen.io/caffeineproof/pen/PoWWade)
 4. [triangle](https://codepen.io/caffeineproof/pen/zYNNLoN)
+
+
+### Day 4: April 2, 2021
+
+**Today's Progress**: Completed the "Applied Accessibility" course under the "Responsive Web Design" certification on freecodcamp.org
+
+
+**Thoughts:**  I learnt a lot of tiny details that I wasn't aware of, that could cause discomfot to the visually impaired, deaf and the colorblind. It's pretty high priority but it's just briefly mentioned at college and that's it. I hope that could be changed.
