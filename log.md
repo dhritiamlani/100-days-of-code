@@ -40,4 +40,4 @@
 **Today's Progress**: Completed the "Applied Accessibility" course under the "Responsive Web Design" certification on freecodcamp.org
 
 
-**Thoughts:**  I learnt a lot of tiny details that I wasn't aware of, that could cause discomfot to the visually impaired, deaf and the colorblind. It's pretty high priority but it's just briefly mentioned at college and that's it. I hope that could be changed.
+**Thoughts:**  I learnt a lot of tiny details that I wasn't aware of, that could cause discomfot to the visually impaired, deaf and the colorblind. It's pretty high priority but it's just briefly mentioned at college and that's it. I hope that could be changed. I'll make sure I focus on accessibility first before I go for the visuals.
