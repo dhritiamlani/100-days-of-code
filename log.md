@@ -8,13 +8,28 @@
 
 <!--**Link(s) to work**: [Calculator App](http://www.example.com)-->
 
+### Day 1: March 28, 2021 (updated log on April 2, 2021)
 
-<!-- Day 1: June 27, Monday-->
+**Today's Progress**: Completed 75% of the "Applied Visual Design" course under the "Responsive Web Design" certification on freecodcamp.org
 
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.-->
+**Thoughts:** I had always wanted to learn how to turn div tags into cool doodles. I could finally get a start to it. Can't wait to create more.
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.-->
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
+### Day 2: March 30, 2021 (updated log on April 2, 2021)
+
+**Today's Progress**: Completed the "Applied Visual Design" course under the "Responsive Web Design" certification on freecodcamp.org to brush up on my basics.
+
+**Thoughts:** Little confused with the cubic-bezier function but it will get better as I keep using these concepts and creating.
+
+
+### Day 3: March 31, 2021 (updated log on April 2, 2021)
+
+**Today's Progress**: Read some articles on basic css images and made re-created the crescent moon and the heart on my own. I also made a holographic heart and a triangle. I attempted to animate the colours in the holographic heart but could't. I need to properly learn css animation concepts and then I'll get back to it.
+
+**Thoughts:**  Tiny progress but still makes me happy. Can't wait to get to the project part and create more css images along the way. I'm just so fascinated by whoever thought about using css to such a creative extent.
+
+**Link(s) to work**
+1. [crescent moon](https://codepen.io/caffeineproof/pen/GRrrdXq)
+2. [heart](https://codepen.io/caffeineproof/pen/KKaaegG)
+3. [holographic heart](https://codepen.io/caffeineproof/pen/PoWWade)
+4. [triangle](https://codepen.io/caffeineproof/pen/zYNNLoN)
