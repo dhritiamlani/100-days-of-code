@@ -41,3 +41,10 @@
 
 
 **Thoughts:**  I learnt a lot of tiny details that I wasn't aware of, that could cause discomfot to the visually impaired, deaf and the colorblind. It's pretty high priority but it's just briefly mentioned at college and that's it. I hope that could be changed. I'll make sure I focus on accessibility first before I go for the visuals.
+
+### Day 5: April 3, 2021
+
+**Today's Progress**: Completed the "Responsive Web Design Principles" and "CSS Flexbox" courses under the "Responsive Web Design" certification on freecodcamp.org
+
+
+**Thoughts:**  Flex-box, life-saver, same thing!! I only have CSS Grid left now and then I can finally work on the projects ^=^
