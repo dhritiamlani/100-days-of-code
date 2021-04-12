@@ -77,7 +77,7 @@
 **Today's Progress**: Finally finished working on the "Responsive Web Design - Tribute Page" project.  
 
 **Thoughts:**  The person I have made this tribute page for, his name is Angad Daryani. Very underated in my opinion. The amount of things he has done with the time in his life is no joke. I admire him for his passion for solving real problems, his drive. His timeline reminds me of what Elon Musk had said. That if you work harder than everybody else you'll feel like you're ahead in time. This guy is ahead in time, and it's very admirable.
-I took a lotttt of time sorting everything in his timeline. I ended up making an excel sheet of his timeline and made columns for his projects, work experience, awards, talks, etc and a column with the years. Then I just started typing away. It's finally done. Even though it's a tiny project I put in a lot of time. I've worked hard. I'll try to work hard and smart!
+I took a lotttt of time sorting everything in his timeline. I ended up making an excel sheet of his timeline and that made things a lot easier. It's finally done. Even though it's a tiny project I put in a lot of time. I've worked hard. I'll try to work hard and smart!
 
 **Link(s) to work**
 1. [fcc tribute page - Angad Drayani](https://codepen.io/caffeineproof/pen/ExZQpdL?editors=1100)
