@@ -80,4 +80,4 @@
 I took a lotttt of time sorting everything in his timeline. I ended up making an excel sheet of his timeline and that made things a lot easier. It's finally done. Even though it's a tiny project I put in a lot of time. I've worked hard. I'll try to work hard and smart!
 
 **Link(s) to work**
-1. [fcc tribute page - Angad Drayani](https://codepen.io/caffeineproof/pen/ExZQpdL?editors=1100)
+1. [Tribute Page - Angad Drayani](https://codepen.io/caffeineproof/pen/ExZQpdL?editors=1100)
