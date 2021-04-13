@@ -81,3 +81,35 @@ I took a lotttt of time sorting everything in his timeline. I ended up making an
 
 **Link(s) to work**
 1. [Tribute Page - Angad Drayani](https://codepen.io/caffeineproof/pen/ExZQpdL?editors=1100)
+
+
+### Day 9: April 12, 2021
+
+**Today's Progress**: Finally finished working on the "Responsive Web Design - Tribute Page" project.  
+
+**Thoughts:**  The person I have made this tribute page for, his name is Angad Daryani. Very underated in my opinion. The amount of things he has done with the time in his life is no joke. I admire him for his passion for solving real problems, his drive. His timeline reminds me of what Elon Musk had said. That if you work harder than everybody else you'll feel like you're ahead in time. This guy is ahead in time, and it's very admirable.
+I took a lotttt of time sorting everything in his timeline. I ended up making an excel sheet of his timeline and that made things a lot easier. It's finally done. Even though it's a tiny project I put in a lot of time. I've worked hard. I'll try to work hard and smart!
+
+**Link(s) to work**
+1. [Tribute Page - Angad Drayani](https://codepen.io/caffeineproof/pen/ExZQpdL?editors=1100)
+
+
+### Day 9: April 12, 2021
+
+**Today's Progress**: Finally finished working on the "Responsive Web Design - Tribute Page" project.  
+
+**Thoughts:**  The person I have made this tribute page for, his name is Angad Daryani. Very underated in my opinion. The amount of things he has done with the time in his life is no joke. I admire him for his passion for solving real problems, his drive. His timeline reminds me of what Elon Musk had said. That if you work harder than everybody else you'll feel like you're ahead in time. This guy is ahead in time, and it's very admirable.
+I took a lotttt of time sorting everything in his timeline. I ended up making an excel sheet of his timeline and that made things a lot easier. It's finally done. Even though it's a tiny project I put in a lot of time. I've worked hard. I'll try to work hard and smart!
+
+**Link(s) to work**
+1. [Tribute Page - Angad Drayani](https://codepen.io/caffeineproof/pen/ExZQpdL?editors=1100)
+
+
+### Day 10: April 13, 2021
+
+**Today's Progress**: Completed the "Responsive Web Design - Survey Form" project on freecodecamp.  
+
+**Thoughts:**  I finished it much faster compared to the first project. Now I'm 3 projects away from JavaScript and I'm really excited about it! ^-^
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/caffeineproof/pen/VwPXxJe?editors=1100)
